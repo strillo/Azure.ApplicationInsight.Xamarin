@@ -1,0 +1,7 @@
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AI.Xamarin.iOS/obj/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AI.Xamarin.iOS/bin/Debug/AI.Xamarin.iOS.dll.mdb
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AI.Xamarin.iOS/bin/Debug/AI.Xamarin.iOS.dll
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AI.Xamarin.iOS/obj/Debug/AI.Xamarin.iOS.dll
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AI.Xamarin.iOS/obj/Debug/AI.Xamarin.iOS.dll.mdb
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AI.Xamarin.iOS/bin/Debug/AI.Xamarin.Abstraction.dll
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AI.Xamarin.iOS/bin/Debug/AI.Xamarin.Abstraction.dll.mdb

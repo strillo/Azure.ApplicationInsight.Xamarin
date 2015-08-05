@@ -1,0 +1,7 @@
+/Users/hasnainaltaiar/Dev/Kloud/Newcrest/Mobile/Newcrest.Mobile/ThirdParty/Azure.ApplicationInsights.Xamarin/ApplicationInsightsXamarin/AI.Xamarin.iOS/obj/Release/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/hasnainaltaiar/Dev/Kloud/Newcrest/Mobile/Newcrest.Mobile/ThirdParty/Azure.ApplicationInsights.Xamarin/ApplicationInsightsXamarin/AI.Xamarin.iOS/bin/Release/AI.Xamarin.iOS.dll.mdb
+/Users/hasnainaltaiar/Dev/Kloud/Newcrest/Mobile/Newcrest.Mobile/ThirdParty/Azure.ApplicationInsights.Xamarin/ApplicationInsightsXamarin/AI.Xamarin.iOS/bin/Release/AI.Xamarin.iOS.dll
+/Users/hasnainaltaiar/Dev/Kloud/Newcrest/Mobile/Newcrest.Mobile/ThirdParty/Azure.ApplicationInsights.Xamarin/ApplicationInsightsXamarin/AI.Xamarin.iOS/obj/Release/AI.Xamarin.iOS.dll
+/Users/hasnainaltaiar/Dev/Kloud/Newcrest/Mobile/Newcrest.Mobile/ThirdParty/Azure.ApplicationInsights.Xamarin/ApplicationInsightsXamarin/AI.Xamarin.iOS/obj/Release/AI.Xamarin.iOS.dll.mdb
+/Users/hasnainaltaiar/Dev/Kloud/Newcrest/Mobile/Newcrest.Mobile/ThirdParty/Azure.ApplicationInsights.Xamarin/ApplicationInsightsXamarin/AI.Xamarin.iOS/bin/Release/AI.Xamarin.Abstraction.dll
+/Users/hasnainaltaiar/Dev/Kloud/Newcrest/Mobile/Newcrest.Mobile/ThirdParty/Azure.ApplicationInsights.Xamarin/ApplicationInsightsXamarin/AI.Xamarin.iOS/bin/Release/AI.Xamarin.Abstraction.dll.mdb

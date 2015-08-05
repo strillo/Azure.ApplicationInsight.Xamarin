@@ -1,0 +1,5 @@
+/Users/hasnainaltaiar/Dev/Kloud/Newcrest/Mobile/Newcrest.Mobile/ThirdParty/Azure.ApplicationInsights.Xamarin/ApplicationInsightsXamarin/AI.Xamarin.Abstraction/obj/Release/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/hasnainaltaiar/Dev/Kloud/Newcrest/Mobile/Newcrest.Mobile/ThirdParty/Azure.ApplicationInsights.Xamarin/ApplicationInsightsXamarin/AI.Xamarin.Abstraction/bin/Release/AI.Xamarin.Abstraction.dll.mdb
+/Users/hasnainaltaiar/Dev/Kloud/Newcrest/Mobile/Newcrest.Mobile/ThirdParty/Azure.ApplicationInsights.Xamarin/ApplicationInsightsXamarin/AI.Xamarin.Abstraction/bin/Release/AI.Xamarin.Abstraction.dll
+/Users/hasnainaltaiar/Dev/Kloud/Newcrest/Mobile/Newcrest.Mobile/ThirdParty/Azure.ApplicationInsights.Xamarin/ApplicationInsightsXamarin/AI.Xamarin.Abstraction/obj/Release/AI.Xamarin.Abstraction.dll
+/Users/hasnainaltaiar/Dev/Kloud/Newcrest/Mobile/Newcrest.Mobile/ThirdParty/Azure.ApplicationInsights.Xamarin/ApplicationInsightsXamarin/AI.Xamarin.Abstraction/obj/Release/AI.Xamarin.Abstraction.dll.mdb

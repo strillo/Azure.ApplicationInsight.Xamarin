@@ -1,0 +1,17 @@
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/obj/iPhoneSimulator/Debug/Xamarin.iOS,Version=v1.0.AssemblyAttribute.cs
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/obj/iPhoneSimulator/Debug/ibtool/LaunchScreen.nib
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/Info.plist
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/obj/iPhoneSimulator/Debug/ibtool/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/obj/iPhoneSimulator/Debug/actool/partial-info.plist
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/obj/iPhoneSimulator/Debug/actool/asset-manifest.plist
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/obj/iPhoneSimulator/Debug/
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/bin/iPhoneSimulator/Debug/AzureAI.XamarinDemo.exe.mdb
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/bin/iPhoneSimulator/Debug/AzureAI.XamarinDemo.exe
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/obj/iPhoneSimulator/Debug/AzureAI.XamarinDemo.exe
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/obj/iPhoneSimulator/Debug/AzureAI.XamarinDemo.exe.mdb
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/bin/iPhoneSimulator/Debug/Calabash.dll
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/bin/iPhoneSimulator/Debug/AI.Xamarin.Abstraction.dll
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/bin/iPhoneSimulator/Debug/AI.Xamarin.Abstraction.dll.mdb
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/bin/iPhoneSimulator/Debug/AI.Xamarin.iOS.dll
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AzureAI.XamarinDemo/bin/iPhoneSimulator/Debug/AI.Xamarin.iOS.dll.mdb

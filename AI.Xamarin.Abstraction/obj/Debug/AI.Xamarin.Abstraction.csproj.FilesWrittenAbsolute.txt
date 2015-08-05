@@ -1,0 +1,5 @@
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AI.Xamarin.Abstraction/obj/Debug/.NETPortable,Version=v4.5,Profile=Profile78.AssemblyAttribute.cs
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AI.Xamarin.Abstraction/bin/Debug/AI.Xamarin.Abstraction.dll.mdb
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AI.Xamarin.Abstraction/bin/Debug/AI.Xamarin.Abstraction.dll
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AI.Xamarin.Abstraction/obj/Debug/AI.Xamarin.Abstraction.dll
+/Users/hasnainaltaiar/GitHub/Has-AlTaiar/Azure.ApplicationInsights.Xamarin/AI.Xamarin.Abstraction/obj/Debug/AI.Xamarin.Abstraction.dll.mdb
